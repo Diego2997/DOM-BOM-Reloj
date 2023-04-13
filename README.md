@@ -15,4 +15,6 @@ Ejercicio utizando javascript y DOM
 
 1. [Bootstrap v5](https://getbootstrap.com/)
 
+## Autor
+
 1. Diego Mercado
